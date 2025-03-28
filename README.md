@@ -11,5 +11,5 @@
 
 ## Dataset
 
-You can find the dataset we used for this project [here](https://data.world/raghu543/ipl-data-till-2017).
+You can find the dataset I used for this project [here](https://data.world/raghu543/ipl-data-till-2017).
 
